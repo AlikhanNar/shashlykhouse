@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shaslykhouse.netlify.app/sitemap.xml
